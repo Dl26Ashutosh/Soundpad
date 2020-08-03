@@ -1,0 +1,19 @@
+.sound-Container{
+    height: 25%;
+  width: 25%;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: #444;
+  border: 1px solid black;
+  padding: 5px;
+}
+.Sound-Button
+{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(122, 128, 189);
+    box-sizing: border-box;
+    border: 2px solid black;
+    cursor: pointer;
+
+}
